@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @arromero4
+- 👋 Hi, I’m Andrés.
 - 👀 I’m interested in Web Development, Java, Python.
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on open source project.
-- 📫 How to reach me:
-twitter: @arromero491
-linkedin: https://www.linkedin.com/in/arromero491/
-
+- 🌱 I’m currently learning Javascript in freeCodeCamp
+- 💞️ I want to become a Web Developer or Software Engineer
+- 📫 How to reach me: https://linktr.ee/arromero 
 
 <!---
 arromero4/arromero4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
