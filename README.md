@@ -14,9 +14,9 @@ You can click the Preview link to take a look at your changes.
 <table bordercolor="#ff69b4">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Educational Space Exploration</h3>
+      <h3 align="center">Travel Advisor App</h3>
         <br />
-        <a target="_blank" href="https://explorenasa.netlify.app/">
+        <a target="_blank" href="https://travel-advisor-arromero.netlify.app/">
             <img src="https://github.com/MazeBuer/NASAExploration/blob/main/css/images/NASAGif.gif" width="100%" alt="NASA App"/>
         </a>
         <br />
