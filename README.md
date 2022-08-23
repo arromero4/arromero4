@@ -192,7 +192,17 @@
         <p><strong>React, RapidAPI, MaterialUI, Google Maps API</strong> - Build and Deploy an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions!</p>
 </td>
  </tr>
-   
+ <td width="50%" valign="top">
+
+      <h3 align="center">To Do List App</h3>
+        <br />
+        <a target="_blank" href="https://arromero4.github.io/react-task-example/">
+            <img src="https://github.com/arromero4/react-task-example/blob/main/src/assets/todo-list-fazt.png" width="100%" alt="To Do List App"/>
+        </a>
+        <br />
+        
+ 
+    </td>
   </tr>
 </table>
 
