@@ -11,7 +11,7 @@
 arromero4/arromero4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p align="center"> <a href="https://twitter.com/arromero491" target="blank"><img src="https://img.shields.io/twitter/follow/arromero491?logo=twitter&style=for-the-badge" alt="arromero491" /></a> </p> 
+<p align="center"> <a href="https://twitter.com/arromero491" target="_blank"><img src="https://img.shields.io/twitter/follow/arromero491?logo=twitter&style=for-the-badge" alt="arromero491" /></a> </p> 
  
  
 <table bordercolor="#ff69b4">
