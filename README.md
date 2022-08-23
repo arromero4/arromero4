@@ -31,4 +31,5 @@ You can click the Preview link to take a look at your changes.
       </p>
         <p><strong>React, RapidAPI, MaterialUI, Google Maps API</strong> - Build and Deploy an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions!</p>
     </td>
+  </tr>
 </table>
