@@ -171,7 +171,9 @@
         alt="arromero4"
       />
     </p>
+    
 <table bordercolor="#ff69b4">
+
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Travel Advisor App</h3>
@@ -190,8 +192,7 @@
   </a>
       </p>
         <p><strong>React, RapidAPI, MaterialUI, Google Maps API</strong> - Build and Deploy an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions!</p>
-  </tr>
-  <tr>
+ </td>
      <td width="50%" valign="top">
        <h3 align="center">To Do List App</h3>
       <br />
@@ -208,10 +209,30 @@
   </a>
   </p>
         <p><strong>React, ViteJS, Tailwind and Github Pages</strong> - Build and Deploy a To Do List App!</p>
-    </td>
-  </tr>
+    
+</td>
+
+
   <tr>
      <td width="50%" valign="top">
+       <h3 align="center">CRUD MERN STACK</h3>
+      <br />
+      <a target="_blank" href="https://github.com/arromero4/mern-stack-reactapp-">
+          <img src="https://github.com/arromero4/mern-stack-reactapp-/blob/master/src/assets/mern-stack-react-app.png" width="100%" alt="MERN STACK"/>
+      </a>
+      <br />
+       <p align="center">
+  <a href="https://github.com/arromero4/mern-stack-reactapp-" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=ff69b4&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://63242c5adefec87d7e8978d5--mernstack-reactapp.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff69b4&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+  </p>
+        <p><strong>Fullstack app using MERN Stack (MySQL, Express, ReactJS, NodeJS), Backend: Heroku, Frontend: TailwindCSS and Netlify </strong></p>
+    </td>
+    
+    <td width="50%" valign="top">
        <h3 align="center">React Rick and Morty</h3>
       <br />
       <a target="_blank" href="https://arromero4.github.io/react-rick-and-morty/">
@@ -219,7 +240,7 @@
       </a>
       <br />
        <p align="center">
-  <a href="https://github.com/arromero4" target="_blank">
+  <a href="https://github.com/arromero4/react-rick-and-morty" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=ff69b4&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://arromero4.github.io/react-rick-and-morty/" target="_blank">
