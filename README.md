@@ -184,7 +184,7 @@
         <br />
         <p align="center">
 
-  <a href="https://github.com/arromero4" target="_blank">
+  <a href="https://github.com/arromero4/travel-advisor" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=ff69b4&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://travel-advisor-arromero.netlify.app/" target="_blank">
