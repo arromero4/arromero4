@@ -201,7 +201,7 @@
       </a>
       <br />
        <p align="center">
-  <a href="https://github.com/arromero4" target="_blank">
+  <a href="https://github.com/arromero4/react-task-example" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=ff69b4&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://arromero4.github.io/react-task-example/" target="_blank">
