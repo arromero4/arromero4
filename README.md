@@ -176,22 +176,22 @@
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Travel Advisor App</h3>
+      <h3 align="center">CRUD Django App</h3>
         <br />
-        <a target="_blank" href="https://travel-advisor-arromero.netlify.app/">
-            <img src="https://github.com/arromero4/travel-advisor/blob/main/src/assets/travel-advisor.png" width="100%" alt="Travel Advisor App"/>
+        <a target="_blank" href="https://django-auth-crud-sc7g.onrender.com/">
+            <img src="https://github.com/arromero4/python-crud-django/blob/main/crud-django-app.png" width="100%" alt="CRUD Django App"/>
         </a>
         <br />
         <p align="center">
 
-  <a href="https://github.com/arromero4/travel-advisor" target="_blank">
+  <a href="https://github.com/arromero4/python-crud-django" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=ff69b4&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://travel-advisor-arromero.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff69b4&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React, RapidAPI, MaterialUI, Google Maps API</strong> - Build and Deploy an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions!</p>
+        <p><strong>Django, Python and Bootstrap</strong> - Build an app with Django and Python, using Bootstrap for style and render.com for Deploy!</p>
  </td>
      <td width="50%" valign="top">
        <h3 align="center">To Do List App</h3>
