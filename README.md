@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Routing and Switching (Cisco)**
 
-- 🌱 I’m currently learning **Typescript, Redux**
+- 🌱 I’m currently practicing **Python with Django**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arromero4](https://github.com/arromero4)
 
-- 💬 Ask me about **React, TailwindCSS**
+- 💬 Ask me about **React, TailwindCSS, Formula 1**
 
 - 📫 How to reach me arromero0408@gmail.com or https://linktr.ee/arromero
 
