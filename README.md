@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm arromero4</h1>
+<h1 align="center">Hi 👋, I'm Andrés R. Romero</h1>
 <h3 align="center">Self-taught and Passionate Frontend Dev | I love the challenge of finding a way and discovering solutions and #F1</h3>
 
 <p align="left"> <a href="https://twitter.com/arromero491" target="blank"><img src="https://img.shields.io/twitter/follow/arromero491?logo=twitter&style=for-the-badge" alt="arromero491" /></a> </p>
