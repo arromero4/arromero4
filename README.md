@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Routing and Switching (Cisco)**
 
-- 🌱 I’m currently practicing **Python**
+- 🌱 I’m currently learning and building with: **Python**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
