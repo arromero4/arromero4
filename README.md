@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/arromero491" target="blank"><img src="https://img.shields.io/twitter/follow/arromero491?logo=twitter&style=for-the-badge" alt="arromero491" /></a> </p>
 
-- 🔭 I’m currently working on **Routing and Switching (Cisco)**
+- 🔭 I’m currently working on **my portfolio **
 
 - 🌱 I’m currently learning and building with: **Python**
 
