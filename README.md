@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrés R. Romero</h1>
-<h3 align="center">Self-taught and Passionate Frontend Dev | I love the challenge of finding a way and discovering solutions and #F1</h3>
+<h3 align="center">Self-taught and Passionate Frontend Dev | An insatiable desire and ability to learn | I love the challenge of finding a way and discovering solutions and #F1</h3>
 
 # 💫 About Me:
 🔭 I’m currently working on my coding skills<br>👯 I’m looking to collaborate on Web Dev Projects<br>🤝 I’m looking for a job opportunity <br>🌱 I’m currently improving my coding skills(React, JS, Python) <br>💬 Ask me about Web Development<br>⚡ Fun fact can talk about Formula 1 all day.<br>⚡ How to reach me arromero0408@gmail.com 
