@@ -35,80 +35,24 @@
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">CRUD Django App</h3>
+      <h3 align="center">Andres Romero - Portfolio</h3>
         <br />
-        <a target="_blank" href="https://django-auth-crud-sc7g.onrender.com/">
-            <img src="https://github.com/arromero4/python-crud-django/blob/main/crud-django-app.png" width="100%" alt="CRUD Django App"/>
+        <a target="_blank" href="#">
+            <img src="https://github.com/arromero4/arromero-portfolio/blob/main/public/projects/project-portfolio-arromero.jpg" width="100%" alt="arromero"/>
         </a>
         <br />
         <p align="center">
 
-  <a href="https://github.com/arromero4/python-crud-django" target="_blank">
+  <a href="https://github.com/arromero4/arromero-portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=ff69b4&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://travel-advisor-arromero.netlify.app/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff69b4&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Django, Python and Bootstrap</strong> - Build an app with Django and Python, using Bootstrap for style and render.com for Deploy!</p>
+        <p><strong>Este portafolio es un reflejo de mi trayectoria y pasión por el desarrollo de software. Espero que disfrutes explorándolo tanto como yo disfruté creándolo!</p>
  </td>
-     <td width="50%" valign="top">
-       <h3 align="center">To Do List App</h3>
-      <br />
-      <a target="_blank" href="https://arromero4.github.io/react-task-example/">
-          <img src="https://github.com/arromero4/react-task-example/blob/main/src/assets/todo-list-fazt.png" width="100%" alt="To Do List App"/>
-      </a>
-      <br />
-       <p align="center">
-  <a href="https://github.com/arromero4/react-task-example" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=ff69b4&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://arromero4.github.io/react-task-example/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff69b4&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-  </p>
-        <p><strong>React, ViteJS, Tailwind and Github Pages</strong> - Build and Deploy a To Do List App!</p>
-    
-</td>
-
-
-  <tr>
-      <td width="50%" valign="top">
-       <h3 align="center">React Rick and Morty</h3>
-      <br />
-      <a target="_blank" href="https://arromero4.github.io/react-rick-and-morty/">
-          <img src="https://github.com/arromero4/react-rick-and-morty/blob/main/src/assets/rick-and-morty.png" width="100%" alt="Rick and Morty"/>
-      </a>
-      <br />
-       <p align="center">
-  <a href="https://github.com/arromero4/react-rick-and-morty" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=ff69b4&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://arromero4.github.io/react-rick-and-morty/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff69b4&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-  </p>
-        <p><strong>React, ViteJS, Bootstrap and Github Pages</strong> - Consuming Rick and Morty API!</p>
-    </td>
-     <td width="50%" valign="top">
-       <h3 align="center">CRUD - MERN Stack</h3>
-      <br />
-      <a target="_blank" href="https://github.com/arromero4/mern-stack-reactapp-">
-          <img src="https://github.com/arromero4/mern-stack-reactapp-/blob/master/src/assets/mern-stack-react-app.png" width="100%" alt="MERN STACK"/>
-      </a>
-      <br />
-       <p align="center">
-  <a href="https://github.com/arromero4/mern-stack-reactapp-" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=ff69b4&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://63242c5adefec87d7e8978d5--mernstack-reactapp.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff69b4&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-  </p>
-        <p><strong>Fullstack app using MERN Stack (MySQL, Express, ReactJS, NodeJS), Backend: Heroku, Frontend: TailwindCSS and Netlify </strong></p>
-    </td>
-    
-  
+   
   </tr>
 </table>
 
